@@ -78,7 +78,7 @@ while (current) {
 if (linksCounter > 0) {
 	var style = document.createElement('style');
 	style.type = 'text/css';
-	style.appendChild(document.createTextNode('a.linkified:before {content: "~"; color: #e00;}'));
+	style.appendChild(document.createTextNode);
 	document.getElementsByTagName('head')[0].appendChild(style);
 }
 
