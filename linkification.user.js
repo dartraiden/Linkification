@@ -1,6 +1,7 @@
-// ==UserScript==
+﻿// ==UserScript==
 // @name           Linkification
 // @namespace      http://userscripts.org/users/splurov/
+// @description    Turn plain text URLs into clickable links
 // @version        20150510
 // @include        *
 // @exclude        http://www.google.tld/search*
