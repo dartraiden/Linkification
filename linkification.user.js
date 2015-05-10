@@ -3,6 +3,7 @@
 // @namespace      http://userscripts.org/users/splurov/
 // @description    Turn plain text URLs into clickable links
 // @version        20150510
+// @icon           https://raw.githubusercontent.com/dartraiden/Linkification/master/icon.png
 // @include        *
 // @exclude        http://www.google.tld/search*
 // @exclude        https://www.google.tld/search*
