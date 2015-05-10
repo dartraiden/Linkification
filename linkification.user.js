@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name           Linkification
 // @namespace      http://userscripts.org/users/splurov/
+// @version        20150510
 // @include        *
 // @exclude        http://www.google.tld/search*
 // @exclude        https://www.google.tld/search*
