@@ -9,6 +9,7 @@ foo.org
 foo.net  
 foo.co.id  
 foo.it  
+192.168.1.1:8080  
 mailto:foo@bar.com  
 mailto:foo@bar.co.id  
 foo@bar.net
