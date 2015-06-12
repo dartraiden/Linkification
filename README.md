@@ -1,5 +1,5 @@
 # Linkification
-Userscript for Firefox. Turn plain text URLs into clickable links.
+Turn plain text URLs into clickable links.
 
 Test cases: 
 
@@ -13,3 +13,5 @@ foo.it
 mailto:foo@bar.com  
 mailto:foo@bar.co.id  
 foo@bar.net
+
+Tested on Firefox only.
