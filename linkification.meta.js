@@ -2,7 +2,7 @@
 // @name            Linkification
 // @description     Turn plain text URLs into clickable links
 // @namespace       http://userscripts.org/users/splurov/
-// @version         20161129.1
+// @version         20161201.1
 // @include         *
 // @exclude         http://www.google.tld/search*
 // @exclude         https://www.google.tld/search*
