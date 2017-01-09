@@ -14,4 +14,6 @@ mailto:foo@bar.com
 mailto:foo@bar.co.id  
 foo@bar.net
 
+[more test cases](https://github.com/dartraiden/Linkification/blob/master/testcases.txt)
+
 Tested on Firefox only.
