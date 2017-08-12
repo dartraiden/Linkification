@@ -1,3 +1,5 @@
+# Development is stopped, pay attention to [Linkify Plus Plus](https://greasyfork.org/ru/scripts/4255-linkify-plus-plus).
+
 # Linkification
 Turn plain text URLs into clickable links.
 
